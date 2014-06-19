@@ -47,7 +47,7 @@ function OnTriggerEnter(other:Collider) {
 	
 	
 }
- 
+ //
 function Start () {
 
 
